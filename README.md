@@ -126,7 +126,7 @@ Used for:
 [Download PPT](data/ppt/swiggy.pptx)
 
 📈 **Power BI Dashboard:**  
-[View Power BI File](data/powerbi/swiggy.pbix)
+[View Power BI File](data/powerBI/swiggy.pbix)
 
 📗 **Excel Dashboard:**  
 [View Excel File](data/excel/swiggy_excel_dashboard.xlsx)
