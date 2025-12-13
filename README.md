@@ -22,14 +22,19 @@ This project covers the full data workflow:
 ### 📂 Project Structure
 ```sql
 
-Swiggy-Capstone/
-│── data/                     → Raw & cleaned dataset
-│── python/                   → Data cleaning, transformation, EDA
-│── sql/                      → 50+ SQL business queries
-│── dashboards/               → Power BI & Excel dashboards
-│── ppt/                      → Final presentation
-│── insights/                 → Business insights document
-│── README.md                 → This documentation
+Swiggy-Capstone-Project/
+│
+├── data/
+│   ├── file                           → Original dataset & Cleaned dataset
+│   ├── dashboard                      → Dashboard png images and pdf
+│   ├── Excel                          → Excel Dashboard file
+│   ├── PowerBI                        → Power BI pbix file and pdf 
+│   ├── PPT                            →  Final PPT file
+│   ├── Pyhton                         → Excel dashboard
+│   └── SQL                            → Final PPT
+│
+└── README.md                          → Project documentation & Key findings, insights
+
 ```
 
 ### 📦 Dataset Summary
