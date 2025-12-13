@@ -123,7 +123,7 @@ Used for:
 ![Dashboard Page 1](data/dashboard/images/file2.png)
 
 📊 **Project Presentation:**  
-[Download PPT](data/ppt/Swiggyppt.pptx)
+[Download PPT](data/ppt/Swiggyppt.pdf)
 
 📈 **Power BI Dashboard:**  
 [View Power BI File](data/powerbi/swiggy.pbix)
