@@ -100,19 +100,36 @@ Used for:
 
 #### 📊 Dashboard
 ```sql
-📌 Dashboard Page 1 – Sales & Order Overview
-
- 
-📌 Dashboard Page 2 – Restaurant Insights
-
-
-📌 Dashboard Page 3 – Category & Pricing Analysis
-
- 
-📌 Dashboard Page 4 – Location & Customer Behavior  
-
+📌 Dashboard Page 1 – Executive Overview
 ```
-![Dashboard Page 1](data/dashboard/images/Executive Overview.png)
+![Dashboard Page 1](data/dashboard/images/file1.png)
+
+
+ ```sql
+📌 Dashboard Page 2 – City & Location Performance
+```
+![Dashboard Page 2](data/dashboard/images/file3.png)
+
+
+```sql
+📌 Dashboard Page 3 – Restaurant & Category Analysis
+```
+![Dashboard Page 1](data/dashboard/images/file4.png)
+
+
+ ```sql
+📌 Dashboard Page 4 – Time & Customer Behavior
+``` 
+![Dashboard Page 1](data/dashboard/images/file2.png)
+
+📊 **Project Presentation:**  
+[Download PPT](data/ppt/Swiggyppt.pptx)
+
+📈 **Power BI Dashboard:**  
+[View Power BI File](data/powerbi/swiggy.pbix)
+
+📗 **Excel Dashboard:**  
+[View Excel File](data/excel/swiggy_excel_dashboard.xlsx)
 
 #### 🔍 Final Insights
 ##### 📌 1. Weekday vs Weekend Performance
@@ -156,12 +173,13 @@ Used for:
 #### 📬 Contact
 ```sql
 👤 Maneesh Maurya
-📫 Email: your-[mauryamaneesh1995@gmail.com]
-
-🔗 LinkedIn: [https://linkedin.com/in/yourprofile]
-
-💻 GitHub: [https://github.com/maneesh-maurya01]
 ```
+###### 📧 Email: [mauryamaneesh1995@gmail.com](mailto:mauryamaneesh1995@gmail.com)
+
+###### 🔗 LinkedIn: [Maneesh Kumar Maurya] (https://linkedin.com/in/mauryamaneesh/)
+
+###### 💻 GitHub: [github.com/maneesh-maurya01] (https://github.com/maneesh-maurya01)
+
 
 
 
