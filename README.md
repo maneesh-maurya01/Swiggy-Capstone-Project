@@ -100,13 +100,19 @@ Used for:
 
 #### 📊 Dashboard
 ```sql
-📌 Dashboard Page 1 – Sales & Order Overview  
-📌 Dashboard Page 2 – Restaurant Insights  
-📌 Dashboard Page 3 – Category & Pricing Analysis  
+📌 Dashboard Page 1 – Sales & Order Overview
+
+ 
+📌 Dashboard Page 2 – Restaurant Insights
+
+
+📌 Dashboard Page 3 – Category & Pricing Analysis
+
+ 
 📌 Dashboard Page 4 – Location & Customer Behavior  
 
 ```
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](data/dashboard/images/Executive Overview.png)
 
 #### 🔍 Final Insights
 ##### 📌 1. Weekday vs Weekend Performance
@@ -150,11 +156,11 @@ Used for:
 #### 📬 Contact
 ```sql
 👤 Maneesh Maurya
-📫 Email: your-mauryamaneesh1995@gmail.com
+📫 Email: your-[mauryamaneesh1995@gmail.com]
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: [https://linkedin.com/in/yourprofile]
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: [https://github.com/maneesh-maurya01]
 ```
 
 
