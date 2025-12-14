@@ -1,7 +1,7 @@
 # Swiggy Sales and Customer Behavior Analysis (Capstone Project)
 ### 📌 Project Overview
 
-This capstone project analyzes **`197K Swiggy Orders`** across **`4,437 Categories`**, **`942 Locations`**, and **`28 States`**, uncovering key behavioral, operational, and revenue-driven insights.
+This capstone project analyzes **`197K+ Swiggy Orders`** across **`4,437 Categories`**, **`942 Locations`**, and **`28 States`**, uncovering key behavioral, operational, and revenue-driven insights.
 The goal is to understand what, when, and why customers order, and to identify opportunities for business optimization, targeted promotions, and better category/restaurant strategy.
 
 ---
