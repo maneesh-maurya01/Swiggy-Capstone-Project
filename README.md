@@ -1,7 +1,7 @@
 # Swiggy Sales and Customer Behavior Analysis (Capstone Project)
 ### 📌 Project Overview
 
-This capstone project analyzes `197K Swiggy orders` across `4,437 categories`, `942 locations`, and `28 states`, uncovering key behavioral, operational, and revenue-driven insights.
+This capstone project analyzes **`197K Swiggy Orders`** across **`4,437 Categories`**, **`942 Locations`**, and **`28 States`**, uncovering key behavioral, operational, and revenue-driven insights.
 The goal is to understand what, when, and why customers order, and to identify opportunities for business optimization, targeted promotions, and better category/restaurant strategy.
 
 ---
@@ -103,7 +103,7 @@ Used for:
 ---
 
 
-#### 📊 Dashboard
+### 📊 Dashboard
 ```sql
 📌 Dashboard Page 1 – Executive Overview
 ```
@@ -121,7 +121,7 @@ Used for:
 ```
 ![Dashboard Page 1](data/dashboard/images/file4.png)
 
-
+---
  ```sql
 📌 Dashboard Page 4 – Time & Customer Behavior
 ``` 
@@ -136,7 +136,9 @@ Used for:
 📗 **Excel Dashboard:**  
 [View Excel File](data/excel/swiggy_excel_dashboard.xlsx)
 
-#### 🔍 Final Insights
+---
+
+### 🔍 Final Insights
 ##### 📌 1. Weekday vs Weekend Performance
 
 * Weekdays dominate with 71% of total orders (140K) and 70% of revenue (₹37.59M).
@@ -187,7 +189,7 @@ Used for:
 
 
 
-
+---
 ### THE END 
-
+---
 
