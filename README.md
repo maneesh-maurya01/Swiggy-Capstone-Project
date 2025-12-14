@@ -29,8 +29,8 @@ Swiggy-Capstone-Project/
 │   ├── dashboard                      → Dashboard png images and pdf
 │   ├── Excel                          → Excel Dashboard file
 │   ├── PowerBI                        → Power BI pbix file and pdf 
-│   ├── PPT                            →  Final PPT file
-│   ├── Pyhton                         → Excel dashboard
+│   ├── PPT                            → Final PPT file
+│   ├── Pyhton                         → Ipynb file and pdf
 │   └── SQL                            → SQL file and Business queries
 │
 └── README.md                          → Project documentation & Key findings, insights
