@@ -26,10 +26,11 @@ Swiggy-Capstone-Project/
 │
 ├── data/
 │   ├── file                           → Original dataset & Cleaned dataset
+│   ├── final-report                   → Project final report for stakeholders
 │   ├── dashboard                      → Dashboard png images and pdf
 │   ├── Excel                          → Excel Dashboard file
 │   ├── PowerBI                        → Power BI pbix file and pdf 
-│   ├── PPT                            → Final PPT file
+│   ├── PPT                            → PPT file
 │   ├── Pyhton                         → Ipynb file and pdf
 │   └── SQL                            → SQL file and Business queries
 │
